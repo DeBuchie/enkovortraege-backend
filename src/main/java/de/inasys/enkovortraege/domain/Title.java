@@ -1,6 +1,5 @@
 package de.inasys.enkovortraege.domain;
 
-import lombok.Data;
 import lombok.Getter;
 
 public class Title {
